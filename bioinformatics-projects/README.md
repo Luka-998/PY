@@ -18,4 +18,4 @@ This repository contains my bioinformatics work using Python & Biopython.
 
 - `Courses in Bioinformatics`:
 
--**Genomic Data Science Specialization** (by=`coursera`)
+- **Genomic Data Science Specialization** (by=`coursera`)
