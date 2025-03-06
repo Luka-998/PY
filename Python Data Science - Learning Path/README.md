@@ -4,7 +4,7 @@ Welcome to my **Data Science Learning Path** repository! This project is part of
 
 ---
 
-## 🚀 **Goals of This Repository**
+## **Goals of This Repository**
 This repository is a structured collection of lessons, exercises, and projects designed to:
 - **Enhance Python Skills**: Learn Python techniques for data manipulation, visualization, and analysis.
 - **Master Data Science Concepts**: Apply tools like pandas, NumPy, Matplotlib, Seaborn, and machine learning libraries.
@@ -19,20 +19,20 @@ The repository is organized into lessons and corresponding datasets for each top
 - **Supplementary**: Here I put some materials I am learning from apart from the Learnnig Path itself.
 - **My Exercises**: Here I update my own exercises, practice and datasets I tried to analyise. Just because I am curious
 
-## 🛠️ **Technologies and Tools**
 Here’s what I’m focusing on during this journey:
 - **Programming Language**: Python
 - **Libraries**:
   - Data Manipulation: pandas, NumPy
   - Data Visualization: Matplotlib, Seaborn
   - Machine Learning: scikit-learn
+  - Statistics: scipy
 - **Version Control**: Git & GitHub
 - **Workflow Automation**: Jupyter Notebooks
 
-## 🔗 **About Me**
+## **About Me**
 I’m passionate about learning, coding, and exploring how computational tools can solve biological problems. Feel free to explore this repository, and if you have any feedback or suggestions, I’d love to hear from you!
 
-## 📬 **Contact**
+## My **Contact**
 - **GitHub**: [Luka-998](https://github.com/Luka-998)
 - **Email**: jasovicluka1@gmail.com
 
