@@ -19,7 +19,7 @@ The repository is organized into lessons and corresponding datasets for each top
  **Libraries used**:
   - Data Manipulation: pandas, NumPy
   - Data Visualization: Matplotlib, Seaborn
-  - Machine Learning: scikit-learn, sklearn
+  - Machine Learning: sklearn
   - Statistics: scipy
 - **Version Control**: Git & GitHub
 
