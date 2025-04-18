@@ -15,7 +15,7 @@ This repository is a structured collection of lessons, exercises, and projects d
 
 ## 📂 **Repository Structure**
 The repository is organized into lessons and corresponding datasets for each topic:
-- **Lessons with Tasklist**: Learning lessons and after that tasklist which I complete point to point which I complete myself.
+- **Lessons with Tasklist**: Learning lessons and after that tasklist which I complete point to point.
 - **Supplementary**: Here I put some materials I am learning from apart from the Learnnig Path itself.
 - **My Exercises**: Here I update my own exercises, practice and datasets I tried to analyise. Just because I am curious
 
