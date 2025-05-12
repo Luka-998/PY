@@ -1,10 +1,10 @@
 In this mini-project I have used **Biopython** to fetch and analyze **real DNA sequences** from the **NCBI GenBank** database.  
 It includes:
-- 🔍 Fetching genomic sequences from NCBI using **Entrez**
+- Fetching genomic sequences from NCBI using **Entrez**
 -  **GC-content analysis** 
 -  **Translation into protein sequences** 
 
-### 🔬 *Example Gene: BRCA1 (Breast Cancer Gene)**
+###  *Example Gene: BRCA1 (Breast Cancer Gene)**
 This script retrieves **BRCA1 mRNA** from NCBI and:
 - Calculates **GC content**.
 - Converts the **DNA sequence into protein**.

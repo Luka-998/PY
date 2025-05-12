@@ -9,7 +9,7 @@ def fetch_myostatin_data():
     record = Entrez.read(handle)
     handle.close()
     
-    # Check if we get valid results
+    # Check results are valid
     if record['IdList']:
         gene_id = record['IdList'][0]  # Get the first gene ID
     else:

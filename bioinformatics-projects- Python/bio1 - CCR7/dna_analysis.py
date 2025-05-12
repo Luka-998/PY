@@ -7,7 +7,7 @@ handle=Entrez.efetch(db='nucleotide', id=genbank_id, rettype='gb',retmode='text'
 record = SeqIO.read(handle,"genbank")
 handle.close()
 
-# The arguments rettype="gb" and retmode="text" let us download this record in the GenBank format. rettype and retmode are optinal arguments.
+
 
 sequence = record.seq
 gc_content = gc_fraction(sequence) * 100 # To convert it to precentage 
