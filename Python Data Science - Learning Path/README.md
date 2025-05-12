@@ -6,6 +6,8 @@ Welcome to my **Data Science Learning Path** repository! This project is part of
 
 ## Curriculum
 
+### All sessions are located in the **Lessons with Tasklist** folder:
+
 0. **Session00 - Preparing for the course**
     - Installation of Python 3.8
     - Creating local virtual environment + libraries installation
