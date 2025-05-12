@@ -1,7 +1,6 @@
 # Bioinformatics Project
 This repository contains my bioinformatics work using Python & Biopython.
 
-# Project: DNA Analysis
 - **Fetches real DNA sequences from NCBI**
 - **Performs GC-content analysis**
 - **Translates DNA into protein**
